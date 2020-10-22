@@ -7,6 +7,6 @@ Proper data preparation is needed before using these algorithms. All these analy
 
 The following work is splited in three diferent codes ordered as:
 
-**1.-** Data Analysis and Feature selection.
-**2.-** K-means & PCA.
-**3.-** KNN and SVM classification.
+**1.-** Data Analysis and Feature selection.\
+**2.-** K-means & PCA.\
+**3.-** KNN and SVM classification.\
