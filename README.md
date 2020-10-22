@@ -6,4 +6,6 @@ In this work I combine statistical analysis like K-means clustering (K-mean) and
 Proper data preparation is needed before using these algorithms. All these analyses will be done using Python programming language which contains most of the algorithms and statistical tools needed to perform a complete analysis.
 
 The following work is splited in three diferent codes ordered as:
-**1.-** 
+
+**1.-** Data Analysis and Feature selection.
+**2.-** 
