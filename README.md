@@ -9,4 +9,4 @@ The following work is splited in three diferent codes ordered as:
 
 **1.-** Data Analysis and Feature selection.
 **2.-** K-means & PCA.
-**3.-** KNN and SVM
+**3.-** KNN and SVM classification.
